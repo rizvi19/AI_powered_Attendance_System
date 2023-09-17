@@ -28,7 +28,7 @@ User-Friendly Interface: The system boasts an intuitive user interface developed
 **Scalability**: The system can be easily scaled to accommodate larger institutions or organizations. Adding more users and expanding the database is a straightforward process.
 
 
-** *The Code* **
+*The Code*
 
 
 # **main.py**
