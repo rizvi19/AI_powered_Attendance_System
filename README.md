@@ -27,8 +27,10 @@ User-Friendly Interface: The system boasts an intuitive user interface developed
 
 **Scalability**: The system can be easily scaled to accommodate larger institutions or organizations. Adding more users and expanding the database is a straightforward process.
 
+**Homepage**
 ![image](https://github.com/rizvi19/AI_powered_Attendance_System/assets/44527871/2ed2c5ae-2271-44d0-822e-ebdff13fb272)
 
+**Student Information**
 ![image](https://github.com/rizvi19/AI_powered_Attendance_System/assets/44527871/7276fbe8-f0bf-40c7-a3bc-70f792e3981d)
 
 
