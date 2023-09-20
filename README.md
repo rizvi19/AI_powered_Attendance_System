@@ -1,4 +1,53 @@
 # AI_powered_Attendance_System
+
+## Overview
+
+This GitHub repository contains the source code for an AI-Powered Attendance System developed for educational institutions. The system utilizes facial recognition technology to automate the process of tracking and managing student attendance.
+
+The project is divided into five main sections:
+
+1. **main.py**: This section serves as the main entry point of the application, providing a graphical user interface (GUI) for users to interact with. It includes buttons and interface elements for various system functionalities.
+
+2. **train.py**: The 'train.py' module is responsible for training the facial recognition model. It processes a dataset of student images, extracts facial features, and trains the model to recognize individual students.
+
+3. **face_recognition.py**: This module handles real-time face recognition. It captures video feed from a camera, identifies faces using the trained model, and displays information about recognized students.
+
+4. **attendance.py**: The 'attendance.py' module manages attendance data. It allows users to import and export attendance records in CSV format. Additionally, it provides the functionality to mark attendance and view detailed attendance reports.
+
+5. **student.py**: This module contains functionality related to student information, but its code was not provided in this repository. It likely handles student data management.
+
+## Prerequisites
+
+Before using the system, ensure you have the following dependencies installed:
+
+- Python 3.x
+- OpenCV
+- Tkinter (for GUI)
+- NumPy
+- MySQL Connector (for database interaction)
+
+## Usage
+
+To use the AI-Powered Attendance System, follow these steps:
+
+1. Clone or download this repository to your local machine.
+2. Install the required dependencies mentioned in the 'Prerequisites' section.
+3. Run 'main.py' to start the application.
+4. Utilize the graphical interface to train the model, recognize faces, manage attendance, and interact with student data.
+
+## Contributors
+
+- Shahriar Rizvi - [Email to Contact](shahriar10rizvi@gmail.com) - [GitHub Profile URL](https://github.com/rizvi19)
+
+## Acknowledgments
+
+- I used YouTube, ChatGPT, Google Bard to explore the depth and to get details about libraries and functions.
+- Some parts and ideas are taken from few YouTube channels.
+
+---
+
+In details: 
+
 My RUET 2nd Year Odd Semester Software Development Project
 
 ## **Project Details** 
